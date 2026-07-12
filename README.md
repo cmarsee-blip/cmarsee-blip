@@ -23,7 +23,7 @@ Full-stack web developer in training, building projects through TripleTen's Soft
 
 | # | Project | Description | Stack | Links |
 |---|---------|--------------|-------|-------|
-| 1 | [Triple Peaks Library](https://github.com/cmarsee-blip/sprint-1-project) | First project of the program — a static library site built from a design brief, focused on semantic HTML, layout, and CSS positioning. | HTML, CSS | — *(no live demo yet — consider enabling GitHub Pages)* |
+| 1 | [Triple Peaks Library](https://github.com/cmarsee-blip/sprint-1-project) | First project of the program — a static library site built from a design brief, focused on semantic HTML, layout, and CSS positioning. | HTML, CSS | [Demo](https://cmarsee-blip.github.io/sprint-1-project/)  |
 | 2 | [Spots](https://github.com/cmarsee-blip/se_project_spots) | A photo-sharing style page emphasizing responsive design and media queries so it looks right on any screen size. | HTML, CSS, JS | [Demo](https://cmarsee-blip.github.io/se_project_spots/) |
 | 3 | [To-Do App](https://github.com/cmarsee-blip/se_project_todo-app) | A checklist utility app with form validation and a modular JS architecture. | JavaScript | [Demo](https://cmarsee-blip.github.io/se_project_todo-app/) |
 | 4 | [WTWR — Front End](https://github.com/cmarsee-blip/se_project_react) | "What to Wear?" — a React app that recommends outfits based on real-time weather data for the user's location. | React, Vite, OpenWeatherAPI | [Project Pitch](https://www.loom.com/share/e35e5e90bb304e7ab9c6c277aa32c205) |
