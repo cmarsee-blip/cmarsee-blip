@@ -4,7 +4,7 @@
 
 Full-stack web developer in training, building projects through TripleTen's Software Engineering program. I like turning design briefs into responsive, working interfaces — and now I'm extending that into back-end APIs and databases.
 
-📍 Lawrenceburg, IN &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/codymarsee) &nbsp;|&nbsp; 📧 cmarsee@alumni.iu.edu
+📍 Lawrenceburg, IN &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/codymarsee) &nbsp;|&nbsp; 📧 codymarsee@proton.me
 
 </div>
 
