@@ -20,7 +20,12 @@ Full-stack web developer in training, building projects through TripleTen's Soft
 
 ---
 
-## 📂 Projects
+## 📂 Personal Projects
+
+| # | Project | Description | Stack | Links |
+|---|---------|--------------|-------|-------|
+
+## 📂 Bootcamp Projects
 
 | # | Project | Description | Stack | Links |
 |---|---------|--------------|-------|-------|
