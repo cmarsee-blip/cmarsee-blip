@@ -24,8 +24,8 @@ Full-stack web developer in training, building projects through TripleTen's Soft
 
 | # | Project | Description | Stack | Links |
 |---|---------|--------------|-------|-------|
-| 1 | [InMyCorner](https://github.com/cmarsee-blip/inmycorner) | Connecting young athletes to college or professional athletes in a mentorship style. | JavaScript, HTML, CSS, PLpgSQL | |
-| 2 | [Clear Care Vet](https://github.com/cmarsee-blip/clearcare-vet) | Allows pet owners to seek medical treatments for their pets with upfront pricing, reviews, & qualifications. | React, Vite | |
+| 1 | [InMyCorner](https://github.com/cmarsee-blip/inmycorner) | A mentorship site concept connecting K–12 kids with collegiate and professional athletes through a penpal-style experience, built as a responsive multi-section front-end mockup. | JavaScript, HTML, CSS, PLpgSQL | |
+| 2 | [Clear Care Vet](https://github.com/cmarsee-blip/clearcare-vet) | A vet-finder where owners search by procedure, compare listed prices with what others paid, and leave reviews, while vets and clinics manage their own profiles. Front end only, running on sample data. | React, Vite | |
 
 ## 📂 Bootcamp Projects
 
