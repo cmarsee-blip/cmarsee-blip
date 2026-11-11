@@ -12,11 +12,11 @@ Full-stack web developer in training, building projects through TripleTen's Soft
 
 ## 🛠️ Skills
 
-**Languages & Core:** JavaScript (ES6+), HTML5, CSS3\
-**Front End:** React, Vite, responsive design & media queries, semantic markup, Flexbox/Grid\
-**Back End:** Node.js, Express, MongoDB/Mongoose, REST APIs, JWT authentication\
-**Tools:** Git & GitHub, GitHub Pages, Figma, VS Code\
-**Work In Progress:** Python
+***Languages & Core:*** JavaScript (ES6+), HTML5, CSS3\
+***Front End:*** React, Vite, responsive design & media queries, semantic markup, Flexbox/Grid\
+***Back End:*** Node.js, Express, MongoDB/Mongoose, REST APIs, JWT authentication\
+***Tools:*** Git & GitHub, GitHub Pages, Figma, VS Code\
+***Work In Progress:*** Python
 
 ---
 
