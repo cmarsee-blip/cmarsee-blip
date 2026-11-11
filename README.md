@@ -16,7 +16,7 @@ Full-stack web developer in training, building projects through TripleTen's Soft
 **Front End:** React, Vite, responsive design & media queries, semantic markup, Flexbox/Grid\
 **Back End:** Node.js, Express, MongoDB/Mongoose, REST APIs, JWT authentication\
 **Tools:** Git & GitHub, GitHub Pages, Figma, VS Code\
-**Work In Progress** Python\
+**Work In Progress** Python
 
 ---
 
