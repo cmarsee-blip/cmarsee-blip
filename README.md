@@ -24,8 +24,9 @@ Full-stack web developer in training, building projects through TripleTen's Soft
 
 | # | Project | Description | Stack | Links |
 |---|---------|--------------|-------|-------|
-| 1 | [InMyCorner](https://github.com/cmarsee-blip/inmycorner) | A mentorship platform concept connecting K–12 athletes with collegiate and professional athletes through a penpal-style experience. Responsive front end with Supabase-backed sign-up flows for families and mentors. | HTML, CSS, JavaScript, Supabase | [Demo](https://cmarsee-blip.github.io/inmycorner/) |
-| 2 | [ClearCare Vet](https://github.com/cmarsee-blip/clearcare-vet) | A vet-finder where owners search by procedure, compare listed prices with what others paid, and leave reviews, while vets and clinics manage their own profiles. Front end runs on sample data, with an Express and PostgreSQL back end in progress. | React, Vite, Leaflet; Express, PostgreSQL, Prisma | [Demo](https://cmarsee-blip.github.io/clearcare-vet/) |
+| 1 | [ClearCare Vet](https://github.com/cmarsee-blip/clearcare-vet) | A vet-finder where owners search by procedure, compare listed prices with what others paid, and leave reviews, while vets and clinics manage their own profiles. Front end runs on sample data, with an Express and PostgreSQL back end in progress. | React, Vite, Leaflet; Express, PostgreSQL, Prisma | [Demo](https://cmarsee-blip.github.io/clearcare-vet/) |
+| 2 | [InMyCorner](https://github.com/cmarsee-blip/inmycorner) | A mentorship platform concept connecting K–12 athletes with collegiate and professional athletes through a penpal-style experience. Responsive front end with Supabase-backed sign-up flows for families and mentors. | HTML, CSS, JavaScript, Supabase | [Demo](https://cmarsee-blip.github.io/inmycorner/) |
+
 
 ## 📂 Bootcamp Projects
 
